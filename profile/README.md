@@ -7,6 +7,32 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 * User-centered Services
 
 
+
+
+
+
+ <hr /> 
+
+## Recent News 
+
+ [Best Paper Award ](https://openreview.net/pdf?id=kjqqcPVOX9) Johannes Exenberger won the Best Paper Award at the Conference on Tractable Probabilistic Modeling for his paper Deep Polynomial Chaos Expansion.
+ 
+ [Preprint](https://www.arxiv.org/abs/2508.00880) "Reproducibility of Machine Learning-Based Fault Detection and Diagnosis for HVAC Systems in Buildings" is online.
+
+
+  <hr /> 
+
+## Ongoing Projects
+[BOSS](https://projekte.ffg.at/projekt/5134326) <br> 
+[Ecom4Future](https://projekte.ffg.at/projekt/4828487) <br> 
+[PersonAI](https://projekte.ffg.at/projekt/4762145) <br> 
+[Ventus](https://projekte.ffg.at/projekt/5121392/pdf) <br> 
+[Sage](https://projekte.ffg.at/projekt/5134323) <br> 
+[Self2B](https://projekte.ffg.at/projekt/5131275) <br> 
+[iklimet](https://projekte.ffg.at/projekt/5121747) <br> 
+[Wellfit](https://projekte.ffg.at/projekt/5131269) <br> 
+[rings](https://projekte.ffg.at/projekt/4875801) <br> 
+
  <hr /> 
 
 ## People
@@ -29,33 +55,8 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 **Valerie Kakoschke** - Student assistant <br>  
 **Veronika Windisch** - Student assistant <br>  
 **Ylleza Hoda** - Student assistant <br>  
-
-
-
  <hr /> 
 
-## Recent News 
-
- [Best Paper Award ](https://openreview.net/pdf?id=kjqqcPVOX9) Johannes Exenberger won the Best Paper Award at the Conference on Tractable Probabilistic Modeling for his paper Deep Polynomial Chaos Expansion.
- 
- [Preprint](https://www.arxiv.org/abs/2508.00880) "Reproducibility of Machine Learning-Based Fault Detection and Diagnosis for HVAC Systems in Buildings" is online.
-
-
- 
- <hr /> 
-
-## Ongoing Projects
-[BOSS](https://projekte.ffg.at/projekt/5134326) <br> 
-[Ecom4Future](https://projekte.ffg.at/projekt/4828487) <br> 
-[PersonAI](https://projekte.ffg.at/projekt/4762145) <br> 
-[Ventus](https://projekte.ffg.at/projekt/5121392/pdf) <br> 
-[Sage](https://projekte.ffg.at/projekt/5134323) <br> 
-[Self2B](https://projekte.ffg.at/projekt/5131275) <br> 
-[iklimet](https://projekte.ffg.at/projekt/5121747) <br> 
-[Wellfit](https://projekte.ffg.at/projekt/5131269) <br> 
-[rings](https://projekte.ffg.at/projekt/4875801) <br> 
-
- <hr /> 
  
 
 
