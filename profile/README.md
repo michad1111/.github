@@ -15,10 +15,11 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 
 ## Recent News 
 
- [Best Paper Award ](https://openreview.net/pdf?id=kjqqcPVOX9) Johannes Exenberger won the Best Paper Award at the Conference on Tractable Probabilistic Modeling for his paper Deep Polynomial Chaos Expansion.
- 
- [Preprint](https://www.arxiv.org/abs/2508.00880) "Reproducibility of Machine Learning-Based Fault Detection and Diagnosis for HVAC Systems in Buildings" is online.
+[Conference Paper](https://doi.org/10.1145/3744256.3812577): Hadwiger, M., Hirsch, T., Kadkhoda Masoumali, S., & Schweiger, G. (2026, June). _Benchmarking Data-Driven Time Series Classification Methods for a real-world Building HVAC System_. In Proceedings of the 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 260-270).
 
+[Best Paper Award](https://openreview.net/pdf?id=kjqqcPVOX9): Johannes Exenberger won the Best Paper Award at the Conference on Tractable Probabilistic Modeling for his paper Deep Polynomial Chaos Expansion.
+ 
+[Journal Paper](https://doi.org/10.1016/j.egyai.2025.100658): Mukhtar, A., Hadwiger, M., Wotawa, F., & Schweiger, G. (2025). _Reproducibility of machine learning-based fault detection and diagnosis for HVAC systems in buildings: An empirical study_. Energy and AI, 100658.
 
   <hr /> 
 
