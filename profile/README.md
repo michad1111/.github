@@ -34,8 +34,8 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 [iKlimEt](https://projekte.ffg.at/projekt/5121747): Optimierung und Machine Learning für integrierte Klima- und Energiesystemmodelle <br> 
 [WELLFIT](https://projekte.ffg.at/projekt/5131269): Wearables for Energy-efficient Living and Psychological Fitness with Intervention Tailoring <br> 
 [RINGs](https://projekte.ffg.at/projekt/4875801): Struktur- und Prozessoptimierung resilienter Quartiers-Anergienetze <br>
-[fuTUre fit: Towards more Science](https://www.tuwien.at/alle-news/news/future-fit-projekt-towards-more-science-weniger-administration-mehr-forschung) <br>
-[AI4All](https://www.tuwien.at/mwbw/im/pim/projekte/ai4all) <br>
+[fuTUre fit: Towards more Science](https://www.tuwien.at/alle-news/news/future-fit-projekt-towards-more-science-weniger-administration-mehr-forschung): FutureFit - about time: The project "Towards More Science" investigates the distribution and scope of administrative and managerial workload among academic staff at TU Wien. <br>
+[AI4All](https://www.tuwien.at/mwbw/im/pim/projekte/ai4all): AI4All is a project funded by TU Wien aimed at introducing and integrating Artificial Intelligence (AI) as a key enabling technology into the teaching portfolio of multiple faculties. <br>
 
  <hr /> 
 
