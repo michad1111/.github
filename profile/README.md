@@ -24,16 +24,16 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
   <hr /> 
 
 ## Ongoing Projects
-[NEXUS](https://projekte.ffg.at/projekt/5142828) <br>
-[rigor](https://projekte.ffg.at/projekt/5142843) <br>
-[BOSS](https://projekte.ffg.at/projekt/5134326) <br> 
-[ECom4Future](https://projekte.ffg.at/projekt/4828487) <br> 
-[VENTUS](https://projekte.ffg.at/projekt/5121392) <br> 
-[SAGE](https://projekte.ffg.at/projekt/5134323) <br> 
-[SELF2B](https://projekte.ffg.at/projekt/5131275) <br> 
-[iKlimEt](https://projekte.ffg.at/projekt/5121747) <br> 
-[WELLFIT](https://projekte.ffg.at/projekt/5131269) <br> 
-[RINGs](https://projekte.ffg.at/projekt/4875801) <br>
+[NEXUS](https://projekte.ffg.at/projekt/5142828): AI for Next Generation Smart Buildings <br>
+[rigor](https://projekte.ffg.at/projekt/5142843): Towards reproducible, transparent, and valid AI methods for buildings and cities <br>
+[BOSS](https://projekte.ffg.at/projekt/5134326): Building Energy Systems on causal reasoning <br> 
+[ECom4Future](https://projekte.ffg.at/projekt/4828487): FIWARE Driven Energy Communities for the Future <br> 
+[VENTUS](https://projekte.ffg.at/projekt/5121392): Causal, Probabilistic and Physics-Informed Machine Learning for Diagnosis and Predictive Maintenance in Wind Turbines <br> 
+[SAGE](https://projekte.ffg.at/projekt/5134323): Skalierbare Agenten für Gebäudemanagement und Energieeffizienz <br> 
+[SELF2B](https://projekte.ffg.at/projekt/5131275): self-aware, self-diagnosing buildings, HVAC, and PV systems for the next generation of energy efficient operations <br> 
+[iKlimEt](https://projekte.ffg.at/projekt/5121747): Optimierung und Machine Learning für integrierte Klima- und Energiesystemmodelle <br> 
+[WELLFIT](https://projekte.ffg.at/projekt/5131269): Wearables for Energy-efficient Living and Psychological Fitness with Intervention Tailoring <br> 
+[RINGs](https://projekte.ffg.at/projekt/4875801): Struktur- und Prozessoptimierung resilienter Quartiers-Anergienetze <br>
 [fuTUre fit: Towards more Science](https://www.tuwien.at/alle-news/news/future-fit-projekt-towards-more-science-weniger-administration-mehr-forschung) <br>
 [AI4All](https://www.tuwien.at/mwbw/im/pim/projekte/ai4all) <br>
 
