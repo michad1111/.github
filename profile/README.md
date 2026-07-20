@@ -52,11 +52,11 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 **Gerald Schweiger** - Lab head <br>  
 **Ivan Cvetanovic** - Student assistant <br>  
 **Johanna Rath** - Predoc <br>  
-**Johannes Exenberger** - PhD student <br>  
-**Katja Ceplak** - PhD student <br>  
+**Johannes Exenberger** - Predoc <br>  
+**Katja Ceplak** - Predoc <br>  
 **Katharina Haidn** - Management <br>  
 **Jakob Unterholzner** - Master Thesis Student <br>  
-**Michael Hadwiger** - PhD student <br>  
+**Michael Hadwiger** - Predoc <br>  
 **Paul Direktor** - Master Thesis Student <br>  
 **Samina Kadkhoda Masoumali** - Student assistant <br>  
 **Thomas Hirsch** - Postdoc <br>  
