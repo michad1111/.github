@@ -3,8 +3,7 @@
 
 Our interdisciplinary research group aims to bridge the gap between basic and applied research. One of the main focuses of the group is the application of computing technologies and AI to the design and optimization of intelligent buildings and energy systems, with the goal of developing more efficient, sustainable, and resilient energy infrastructure. Our research themes include 
 *	Computational Methods and Machine Learning
-* IoT Technologies for Intelligent Systems
-* User-centered Services
+* Human, Technology & Environment Interaction
 
 
 
