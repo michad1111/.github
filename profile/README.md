@@ -3,6 +3,7 @@
 
 Our interdisciplinary research group aims to bridge the gap between basic and applied research. One of the main focuses of the group is the application of computing technologies and AI to the design and optimization of intelligent buildings and energy systems, with the goal of developing more efficient, sustainable, and resilient energy infrastructure. Our research themes include 
 *	Computational Methods and Machine Learning
+*	Buildings and Energy Systems
 * Human, Technology & Environment Interaction
 
 
@@ -14,7 +15,7 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 
 ## Recent News 
 
-[Conference Paper](https://doi.org/10.1145/3744256.3812577): Hadwiger, M., Hirsch, T., Kadkhoda Masoumali, S., & Schweiger, G. (2026, June). _Benchmarking Data-Driven Time Series Classification Methods for a real-world Building HVAC System_. In Proceedings of the 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 260-270).
+[Conference Paper](https://doi.org/10.1145/3744256.3812577): Hadwiger, M., Hirsch, T., Kadkhoda Masoumali, S., & Schweiger, G. (2026). _Benchmarking Data-Driven Time Series Classification Methods for a real-world Building HVAC System_. In Proceedings of the 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (pp. 260-270).
 
 [Best Paper Award](https://openreview.net/pdf?id=kjqqcPVOX9): Johannes Exenberger won the Best Paper Award at the Conference on Tractable Probabilistic Modeling for his paper Deep Polynomial Chaos Expansion.
  
@@ -93,7 +94,7 @@ Cooperation: <br>
  <hr />
  
 ## Former Members
-**Benjamin Kohl** - PhD student <br>  
+**Benjamin Kohl** - Predoc <br>  
 **Lucija Aleksic** - Student assistant <br>  
 **Richard Kraus** - Student assistant <br>  
 **Ylleza Hoda** - Student assistant <br>  
